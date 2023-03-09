@@ -1,0 +1,4 @@
+cup : 6
+plate : 3
+pan : 4
+cup : 1

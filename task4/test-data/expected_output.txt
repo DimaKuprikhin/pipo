@@ -1,0 +1,86 @@
+WASHER 0 sec: Wash cup for 1 seconds
+WIPER  0 sec: Trying to get dish from the table
+WASHER 1 sec: Put cup on the table
+WASHER 1 sec: Trying to put cup on the table
+WASHER 1 sec: Wash cup for 1 seconds
+WIPER  1 sec: Got cup from the table
+WIPER  1 sec: Wipe cup for 3 seconds
+WASHER 2 sec: Put cup on the table
+WASHER 2 sec: Trying to put cup on the table
+WASHER 2 sec: Wash cup for 1 seconds
+WASHER 3 sec: Put cup on the table
+WASHER 3 sec: Trying to put cup on the table
+WASHER 3 sec: Wash cup for 1 seconds
+WASHER 4 sec: Put cup on the table
+WASHER 4 sec: Trying to put cup on the table
+WASHER 4 sec: Wash cup for 1 seconds
+WIPER  4 sec: Got cup from the table
+WIPER  4 sec: Trying to get dish from the table
+WIPER  4 sec: Wipe cup for 3 seconds
+WASHER 5 sec: Put cup on the table
+WASHER 5 sec: Trying to put cup on the table
+WASHER 5 sec: Wash cup for 1 seconds
+WASHER 6 sec: Trying to put cup on the table
+WASHER 7 sec: Put cup on the table
+WASHER 7 sec: Wash plate for 2 seconds
+WIPER  7 sec: Got cup from the table
+WIPER  7 sec: Trying to get dish from the table
+WIPER  7 sec: Wipe cup for 3 seconds
+WASHER 9 sec: Trying to put plate on the table
+WASHER 10 sec: Put plate on the table
+WASHER 10 sec: Wash plate for 2 seconds
+WIPER  10 sec: Got cup from the table
+WIPER  10 sec: Trying to get dish from the table
+WIPER  10 sec: Wipe cup for 3 seconds
+WASHER 12 sec: Trying to put plate on the table
+WASHER 13 sec: Put plate on the table
+WASHER 13 sec: Wash plate for 2 seconds
+WIPER  13 sec: Got cup from the table
+WIPER  13 sec: Trying to get dish from the table
+WIPER  13 sec: Wipe cup for 3 seconds
+WASHER 15 sec: Trying to put plate on the table
+WASHER 16 sec: Put plate on the table
+WASHER 16 sec: Wash pan for 3 seconds
+WIPER  16 sec: Got cup from the table
+WIPER  16 sec: Trying to get dish from the table
+WIPER  16 sec: Wipe cup for 3 seconds
+WASHER 19 sec: Put pan on the table
+WASHER 19 sec: Trying to put pan on the table
+WASHER 19 sec: Wash pan for 3 seconds
+WIPER  19 sec: Got plate from the table
+WIPER  19 sec: Trying to get dish from the table
+WIPER  19 sec: Wipe plate for 2 seconds
+WIPER  21 sec: Got plate from the table
+WIPER  21 sec: Trying to get dish from the table
+WIPER  21 sec: Wipe plate for 2 seconds
+WASHER 22 sec: Put pan on the table
+WASHER 22 sec: Trying to put pan on the table
+WASHER 22 sec: Wash pan for 3 seconds
+WIPER  23 sec: Got plate from the table
+WIPER  23 sec: Trying to get dish from the table
+WIPER  23 sec: Wipe plate for 2 seconds
+WASHER 25 sec: Put pan on the table
+WASHER 25 sec: Trying to put pan on the table
+WASHER 25 sec: Wash pan for 3 seconds
+WIPER  25 sec: Got pan from the table
+WIPER  25 sec: Trying to get dish from the table
+WIPER  25 sec: Wipe pan for 1 seconds
+WIPER  26 sec: Got pan from the table
+WIPER  26 sec: Trying to get dish from the table
+WIPER  26 sec: Wipe pan for 1 seconds
+WIPER  27 sec: Got pan from the table
+WIPER  27 sec: Trying to get dish from the table
+WIPER  27 sec: Wipe pan for 1 seconds
+WASHER 28 sec: Put pan on the table
+WASHER 28 sec: Trying to put pan on the table
+WASHER 28 sec: Wash cup for 1 seconds
+WIPER  28 sec: Got pan from the table
+WIPER  28 sec: Trying to get dish from the table
+WIPER  28 sec: Wipe pan for 1 seconds
+WASHER 29 sec: Finished work
+WASHER 29 sec: Put cup on the table
+WASHER 29 sec: Trying to put cup on the table
+WIPER  29 sec: Got cup from the table
+WIPER  29 sec: Trying to get dish from the table
+WIPER  29 sec: Wipe cup for 3 seconds
+WIPER  32 sec: Finished work

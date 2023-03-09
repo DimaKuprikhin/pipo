@@ -1,0 +1,4 @@
+cup : 3
+plate : 2
+pan : 1
+other : 100

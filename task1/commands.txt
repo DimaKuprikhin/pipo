@@ -1,0 +1,5 @@
+2 /usr/bin/touch 2
+1 /usr/bin/echo 111
+3 /usr/bin/touch 3
+5 /usr/bin/rm 2
+5 /usr/bin/rm 3
